@@ -1,4 +1,4 @@
-# Assignment3
+# Assignment2
 George Brown College
 
 Program: Applied A.I. Solutions Development (Postgraduate) (T431) Fall 2023 intake
